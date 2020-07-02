@@ -1,0 +1,17 @@
+{
+    "response.jsonOK": "Requisição efetuada com sucesso",
+    "response.jsonBadReq": "Requisição invalida",
+    "response.jsonUntorized": "Requisição não autorizada",
+    "response.jsonNotFound": "Requisição não encontrada",
+    "response.jsonServerError": "erro no servidor",
+    
+
+    "account.signup.password_confirmation.any.required": "Confirmação de senha é obrigatorio",
+    "account.signup.password.string.empty": "Senha é obrigatorio",
+    "account.signup.password.string.pattern.base": "senha precisa ter mais de 3 caracteres",
+    "account.signup.email.string.empy": "email é obrigatorio",
+    "account.signup.email.string.email": "nao é um email valido",
+    "account.signup.email_exists": "email já cadastrado",
+    "account.signup.success": "cadastro feito com sucesso!"
+    
+}
